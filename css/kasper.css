@@ -185,7 +185,7 @@ header nav ul li a:hover {
     position: relative;
     min-height: 100vb;
     background-color: #1f2021;
-    background-image: url(/images/landing.jpg);
+    background-image: url(/templet-2/images/landing.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -318,7 +318,7 @@ header nav ul li a:hover {
     padding-bottom: var(--section-padding);
     height: 600px;
     position: relative;
-    background-image: url(/images/design-features.jpg);
+    background-image: url(/templet-2/images/design-features.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -512,7 +512,7 @@ header nav ul li a:hover {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background-image: url(/images/stats.png);
+    background-image: url(/templet-2/images/stats.png);
     background-size: cover;
     position: relative;
 }
@@ -800,7 +800,7 @@ header nav ul li a:hover {
 .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(/templet-2/images/subscribe.jpg);
     background-size: cover;
     position: relative;
     color: white;
@@ -951,7 +951,7 @@ header nav ul li a:hover {
 .footer {
     padding-top: calc( var(--section-padding) / 2);
     padding-bottom: calc( var(--section-padding) / 2);
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(/templet-2/images/subscribe.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
